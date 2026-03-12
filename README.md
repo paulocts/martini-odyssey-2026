@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner1.jpg" width="800">
+</p>
+
+
 # 🍸 MARTINI Odyssey — Athens 2026 🇬🇷
 
 📣 **Registration is now OPEN!**
