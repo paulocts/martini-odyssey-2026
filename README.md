@@ -32,14 +32,17 @@ International speakers and instructors include:
 
 - **Paulo C. Telles de Souza** — ENS de Lyon / CNRS  
 - **Robin Corey** — University of Bristol  
-- **Antonios Kolocouris** — NKUA  
+- **Antonios Kolocouris** — National and Kapodistrian University of Athens
 - **Matthieu Chavent** — Université de Toulouse / CNRS  
 - **Dimitrios Kolokouris** — University of Copenhagen  
 - **Luís Borges Araújo** — ENS de Lyon / CNRS  
 - **Fabian Schuhmann** — University of Copenhagen  
-- **Mariana Valério** — ENS de Lyon / CNRS  
+- **Mariana Valério** — ENS de Lyon / CNRS
+- ***Ilias Patmanidis** - University of Groningen
 - **Saman Fatihi** — Biomedical Research Foundation of the Academy of Athens  
-- **Nishita Mandal** — Biomedical Research Foundation of the Academy of Athens  
+- **Nishita Mandal** — Biomedical Research Foundation of the Academy of Athens
+- **Chelsea Brown** - University of Groningen
+- **Marieke Westendorp** - University of Groningen
 - and additional contributors.
 
 ---
@@ -90,7 +93,7 @@ Travel and accommodation are **not covered**.
 | Time | Activity |
 |-----|-----|
 | 09:30 – 10:00 | Registration |
-| 10:00 – 10:10 | Welcome — E. Mikros, P. C. T. Souza, R. Corey, A. Kolocouris |
+| 10:00 – 10:10 | Welcome — **E. Mikros, P. C. T. Souza, R. Corey, A. Kolocouris** |
 | 10:10 – 10:55 | Introduction to Coarse-Graining and Martini — **Paulo C. T. Souza** |
 | 10:55 – 11:40 | Martini models for biomolecules / Martini ecosystem — **Luís Borges Araújo** |
 | 11:40 – 12:10 | Coffee break |
@@ -106,7 +109,7 @@ Travel and accommodation are **not covered**.
 | Time | Activity |
 |-----|-----|
 | 09:30 – 10:00 | Transport to ELPEN |
-| 10:00 – 10:10 | Welcome — ELPEN representative |
+| 10:00 – 10:10 | Welcome — **ELPEN representative** |
 | 10:10 – 10:55 | Parametrization of Martini models — **Paulo C. T. Souza** |
 | 10:55 – 11:40 | Binding small molecules / GPCRs — **Matthieu Chavent** |
 | 11:40 – 12:10 | Coffee break |
@@ -126,7 +129,7 @@ Travel and accommodation are **not covered**.
 | 10:10 – 10:55 | Transmembrane proteins — **Dimitrios Kolokouris & Robin Corey** |
 | 10:55 – 11:40 | Peripheral membrane proteins — **Saman Fatihi & Nishita Mandal** |
 | 11:40 – 12:10 | Coffee break |
-| 12:10 – 12:55 | Complex biological membranes: mitochondrial cristae — **Chelsea Brown** |
+| 12:10 – 12:55 | Complex biological membranes: mitochondrial cristae — **Chelsea Brown & Marieke Westendorp** |
 | 13:00 – 14:00 | Lunch |
 | 14:00 – 17:00 | **Hands-on Session 3:** Building, running, analysing and visualising membrane protein simulations |
 | 17:00 – 20:00 | Optional **Acropolis / museum visit** |
