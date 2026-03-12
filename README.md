@@ -38,7 +38,7 @@ International speakers and instructors include:
 - **Luís Borges Araújo** — ENS de Lyon / CNRS  
 - **Fabian Schuhmann** — University of Copenhagen  
 - **Mariana Valério** — ENS de Lyon / CNRS
-- ***Ilias Patmanidis** - University of Groningen
+- **Ilias Patmanidis** - University of Groningen
 - **Saman Fatihi** — Biomedical Research Foundation of the Academy of Athens  
 - **Nishita Mandal** — Biomedical Research Foundation of the Academy of Athens
 - **Chelsea Brown** - University of Groningen
