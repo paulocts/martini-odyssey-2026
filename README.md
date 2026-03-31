@@ -67,6 +67,31 @@ Hands-on sessions are supported by:
 
 ---
 
+## 🏨 Accommodation & Local Information
+
+Participants may consider the following nearby hotels:
+
+- Crowne Plaza Hotel  
+- Divani Caravel Hotel  
+- Ilisia Hotel  
+- Holiday Suites  
+- Hestia Dimitressa 4  
+- Golden Age Hotel  
+
+Taxis in Athens are relatively affordable, making transport between venues convenient.
+
+---
+
+## 🍽️ Social Dinner
+
+The speakers’ / organisers’ dinner will take place on **April 22** at:
+
+**Vasilenas Restaurant**  
+Vrasida Street — opposite the Hilton Hotel  
+🔗 https://www.vassilenas.gr/en/
+
+---
+
 ## 📄 Application
 
 Send the following to:
