@@ -5,7 +5,7 @@
 
 # 🍸 MARTINI Odyssey — Athens 2026 🇬🇷
 
-📣 **Registration is now OPEN!**
+📣 **Registration is now CLOSED!**
 
 We are excited to announce the opening of registration for **MARTINI Odyssey: A Hands-On School in Coarse-Grained Molecular Simulation**, taking place **21–23 April 2026** at the **Department of Pharmacy (Pharmaceutical Chemistry Section), National and Kapodistrian University of Athens (NKUA)**.
 
