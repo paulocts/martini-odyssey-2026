@@ -23,9 +23,12 @@ Each tutorial links to dedicated pages with step-by-step instructions.
 
 ## Tutorials
 
-- [Introduction to Martini and MD Simulations - Membrane self-assembly](https://cgmartini.nl/docs/tutorials/Martini3/LipidsI/)
-- [How to build your Martini Protein model] [part 1](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/) [part 2](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/Tut1.html)
-- [Setting Up Transmembrane Peptide Simulations](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsIIa/)
+- [Membrane Self-Assembly (Introduction to Martini & MD)](https://cgmartini.nl/docs/tutorials/Martini3/LipidsI/)
+
+- [Building a Martini Protein Model — Part 1](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/)  
+  [Building a Martini Protein Model — Part 2](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/Tut1.html)
+
+- [Transmembrane Peptide Simulations](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsIIa/)
 
 - **Membrane Self-Assembly (Introduction to Martini & MD)**  
   https://cgmartini.nl/docs/tutorials/Martini3/LipidsI/
