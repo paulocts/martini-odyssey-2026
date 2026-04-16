@@ -46,7 +46,7 @@ Each hands-on links to dedicated pages with step-by-step instructions.
 
 ---
 
-# 🧬 Day 3 — Biological Applications
+# 🦠 Day 3 — Biological Applications
 
 **Hands-on Session 3:**  
 *Simulations of membrane proteins and complex biological systems*
