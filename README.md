@@ -118,7 +118,7 @@ Travel and accommodation are **not covered**.
 
 | Time | Activity |
 |-----|-----|
-| 09:30 – 10:00 | Registration |
+| 09:30 – 10:00 | Registration v
 | 10:00 – 10:10 | Welcome — **E. Mikros, P. C. T. Souza, R. Corey, A. Kolocouris** |
 | 10:10 – 10:55 | Introduction to Coarse-Graining and Martini — **Paulo C. T. Souza** |
 | 10:55 – 11:40 | Martini models for biomolecules / Martini ecosystem — **Luís Borges Araújo** |
@@ -135,7 +135,7 @@ Travel and accommodation are **not covered**.
 | Time | Activity |
 |-----|-----|
 | 09:30 – 10:10 | Transport to Athens Life Sciences Technology Park of ELPEN by bus from NKUA. |
-| 10:20 – 11:00 | Tour in the labs of Life Sciences Technology Park of ELPEN
+| 10:20 – 11:00 | Tour in the labs of Life Sciences Technology Park of ELPEN b
 | 11:00 – 11:10 | Welcome — **ELPEN representative** |
 | 11:10 – 11:55 | Parametrization of Martini models — **Paulo C. T. Souza** |
 | 11:55 – 12:40 | Modelling protein-ligand interactions using Martini — **Matthieu Chavent** & **Magdalena Szczuka** |
