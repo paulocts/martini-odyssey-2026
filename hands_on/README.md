@@ -68,5 +68,30 @@ Additional tutorials for deeper exploration beyond the core sessions.
 - **Enhanced Sampling with Martini**  
   ↳ [Free Energy Techniques](https://cgmartini.nl/docs/tutorials/Martini3/Free_Energy_Techniques/)
 
+  ---
+
+  # 💻 Computing Environment (HPC Access)
+
+All hands-on exercises can be run on the ARIS HPC system during the workshop.
+
+Access credentials will be provided to participants during the event.
+
+## Login
+
+1. Connect to the workshop gateway:  
+   `ssh -p 65022 workshop2026_1@88.197.83.25`
+
+2. From there, connect to ARIS:  
+   `ssh -i .ssh/aris train01@login.aris.grnet.gr`
+
+## Running jobs
+
+- Navigate to the relevant tutorial folder (e.g. `TEST`)  
+- Submit jobs using: `sbatch submit_sample.sh`
+
+## Notes
+
+- Each node has 20 cores, but for some systems, jobs should be configured to less cores (e.g. **16 cores**)  
+
 
 
