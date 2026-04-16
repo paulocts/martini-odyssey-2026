@@ -23,9 +23,14 @@ Each tutorial links to dedicated pages with step-by-step instructions.
 
 ## Tutorials
 
-- [Membrane Self-Assembly (Introduction to Martini & MD)](https://cgmartini.nl/docs/tutorials/Martini3/LipidsI/)
-- [Building a Martini Protein Model — Part 1](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/)  
-  [Building a Martini Protein Model — Part 2](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/Tut1.html)
+- **Introduction to Martini & MD Simulations**
+- [Membrane Self-Assembly](https://cgmartini.nl/docs/tutorials/Martini3/LipidsI/)
+
+- **Martini Protein Model**
+- [Introduction](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/)  
+  [Using Martinize2](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/Tut1.html)
+
+- **Peptides and Lipids**
 - [Transmembrane Peptide Simulations](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsIIa/)
 
 ---
@@ -61,18 +66,19 @@ Additional tutorials for deeper exploration beyond the core sessions.
 
 ## Topics
 
-- **More about Lipid Simulations with Martini**
+- **More on Lipid Simulations with Martini**
   - [Vesicles and Membranes in Complex Shapes (TS2CG2)](https://github.com/weria-pezeshkian/TS2CG-v2.0/wiki/Tutorial)
   - [Complex Lipid Membranes with INSANE](https://cgmartini.nl/docs/tutorials/Martini3/LipidsII/)
   - [Complex Lipid Membranes with COBY](https://github.com/MikkelDA/COBY/tree/master/Tutorial)
 
-- **More about Protein Martini Models**
+- **More on Protein Martini Models**
   - [Evaluating the Quality of Protein Models](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/Tut2.html)
   - [Intrinsically Disordered Regions in Proteins](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/Tut3.html)
   - [Protein Complexes with Martini](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsIIb/)
   - [Notes and Limitations](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/Tut4.html)
 
-- [Free Energy Techniques](https://cgmartini.nl/docs/tutorials/Martini3/Free_Energy_Techniques/)
+- **Enhanced Sampling with Martini**
+  - [Free Energy Techniques](https://cgmartini.nl/docs/tutorials/Martini3/Free_Energy_Techniques/)
 
 
 
