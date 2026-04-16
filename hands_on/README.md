@@ -7,15 +7,6 @@ Each tutorial links to dedicated pages with step-by-step instructions.
 
 ---
 
-# 📅 Overview
-
-- 🧩 **Day 1 — Fundamentals**
-- 💊 **Day 2 — Pharmaceutical Applications**
-- 🧬 **Day 3 — Biological Applications**
-- 🚀 **Advanced Material**
-
----
-
 # 🧩 Day 1 — Fundamentals
 
 **Hands-on Session 1:**  
