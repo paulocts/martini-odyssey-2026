@@ -3,7 +3,9 @@
 Welcome to the **hands-on section** of the MARTINI Odyssey school.  
 This repository contains guided tutorials corresponding to each day of the event, as well as additional advanced material.
 
-Each hands-on links to dedicated pages with step-by-step instructions.
+Each hands-on links to dedicated pages with step-by-step instructions. 
+
+*Exercises require a pre-configured software environment (Python tools and external packages). Details are provided at the end of this page.*
 
 ---
 
@@ -70,7 +72,7 @@ Additional tutorials for deeper exploration beyond the core sessions.
 
   ---
 
-  # 💻 Computing Environment (HPC Access)
+  # 💻 Computing Environment & Setup
 
 All hands-on exercises can be run on the ARIS HPC system during the workshop.
 
@@ -91,7 +93,16 @@ Access credentials will be provided to participants during the event.
 
 ## Notes
 
-- Each node has 20 cores, but for some systems, jobs should be configured to less cores (e.g. **16 cores**)  
+- Each node has 20 cores, but for some systems, jobs should be configured to less cores (e.g. **16 cores**)
+  
+
+## Software environment
+
+In addition to HPC access, several tools and Python packages are required for the tutorials (e.g. analysis libraries, system preparation tools).
+
+A setup script will be provided during the workshop to install these dependencies in a local environment if needed.
+
+Some components may already be pre-installed on the system.
 
 
 
