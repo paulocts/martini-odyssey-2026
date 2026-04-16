@@ -12,7 +12,7 @@ Each tutorial links to dedicated pages with step-by-step instructions.
 **Hands-on Session 1:**  
 *Basics of Martini (membranes and proteins)*
 
-## Tutorials
+## Exercises
 
 - **Introduction to Martini & MD Simulations**  
   ↳ [Membrane Self-Assembly](https://cgmartini.nl/docs/tutorials/Martini3/LipidsI/)
@@ -31,11 +31,8 @@ Each tutorial links to dedicated pages with step-by-step instructions.
 **Hands-on Session 2:**  
 *Parametrization of small-molecules, protein-ligand binding, liposomes and LNPs*
 
-## Tutorials
+## Exercises
 
-- [Tutorial]
-- [Tutorial]
-- [Tutorial]
 - [Tutorial]
 
 ---
@@ -45,7 +42,7 @@ Each tutorial links to dedicated pages with step-by-step instructions.
 **Hands-on Session 3:**  
 *Simulations of membrane proteins and complex biological systems*
 
-## Tutorials
+## Exercises
 
 - [Tutorial]
 
