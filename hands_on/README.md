@@ -79,37 +79,133 @@ Additional tutorials for deeper exploration beyond the core sessions.
 
   ---
 
-  # 💻 Computing Environment & Setup
+ # 💻 Computing Environment & Setup
 
-All hands-on exercises can be run on the ARIS HPC system during the workshop.
+The hands-on sessions will use a **remote Linux environment**, accessible from both the computer lab and your personal laptop.
 
-Access credentials will be provided to participants during the event.
+---
 
-## Login
+## 🧭 Workflow Overview
 
-1. Connect to the workshop gateway:  
-   `ssh -p 65022 workshop2026_1@88.197.83.25`
+```
+Your Laptop / Lab PC (Windows + MobaXterm)
+                │
+                ▼
+        Workshop Gateway
+                │
+                ▼
+        Linux Workstations (GPU)
+                │
+        ┌───────┴────────┐
+        ▼                ▼
+  Run locally        ARIS HPC (GRNET)
+ (interactive)       (large jobs)
+```
 
-2. From there, connect to ARIS:  
-   `ssh -i .ssh/aris train01@login.aris.grnet.gr`
+---
 
-## Running jobs
+## 🖥️ Accessing the System
 
-- Navigate to the relevant tutorial folder (e.g. `TEST`)  
-- Submit jobs using: `sbatch submit_sample.sh`
+### Step 1 — SSH Client
 
-## Notes
+- Lab PCs: MobaXterm already available ✅  
+- Personal laptops:
+  - Windows → install MobaXterm  
+  - Mac/Linux → use terminal  
 
-- Each node has 20 cores, but for some systems, jobs should be configured to less cores (e.g. **16 cores**)
-  
+---
 
-## Software environment
+### Step 2 — Connect to Workshop Gateway
 
-In addition to HPC access, several tools and Python packages are required for the tutorials (e.g. analysis libraries, system preparation tools).
+```bash
+ssh -p 65022 workshop2026_1@88.197.83.25
+```
 
-A setup script will be provided during the workshop to install these dependencies in a local environment if needed.
+---
 
-Some components may already be pre-installed on the system.
+### Step 3 — Connect to ARIS HPC
+
+From the gateway:
+
+```bash
+ssh -i ~/.ssh/aris train01@login.aris.grnet.gr
+```
+
+---
+
+## ⚙️ Running Jobs
+
+### Navigate to your working directory
+
+```bash
+cd TEST
+```
+
+### Submit a job
+
+```bash
+sbatch submit.sh
+```
+
+---
+
+## 🧮 Where to Run Your Work
+
+### Local Workstations
+
+- Linux systems with GPUs  
+- Best for:
+  - Setup  
+  - Testing  
+  - Short runs  
+
+---
+
+### ARIS HPC
+
+- For larger simulations  
+- Uses SLURM scheduler (`sbatch`)
+
+---
+
+## 📂 File Transfer
+
+### Using MobaXterm
+
+- Drag & drop files (SFTP interface)
+
+### Using command line
+
+```bash
+scp file train01@login.aris.grnet.gr:/path/
+```
+
+---
+
+## 🧪 Software Environment
+
+- GROMACS  
+- Martini 3 tools  
+- Python libraries for analysis  
+
+A setup script may be provided if needed.
+
+---
+
+## 💡 Notes
+
+- Each compute node has **20 cores**
+- For stability, use fewer cores when needed (e.g. **16 cores** in systems that are not so big)
+
+- You can run simulations:
+  - On local workstations (interactive)
+  - On ARIS HPC (recommended for larger jobs)
+
+- No software installation is required on your laptop (except SSH client)
+
+---
+
+Happy computing! 🚀
 
 
 
