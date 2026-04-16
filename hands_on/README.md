@@ -39,10 +39,10 @@ Each hands-on links to dedicated pages with step-by-step instructions.
   ↳ [Introduction to Parametrization - manual approach](https://cgmartini.nl/docs/tutorials/Martini3/Small_Molecule_Parametrization/)
   ↳ [Small-molecule models with Auto-MartiniM3](https://github.com/M2BMI-Lab/Workshop-MartiniOdyssey/blob/main/Tutorial-Parametrization-AutoMartiniM3-MartiniOdyssey.md)
 
-  - **Protein-ligand binding**  
+- **Protein-ligand binding**  
   ↳ [Binding of caffeine to Adenosine 2 receptor ](https://github.com/M2BMI-Lab/Workshop-MartiniOdyssey/blob/main/Tutorial-Simulation-with-GPCR-AutoMartiniM3-MartiniOdyssey.md)
 
-  - **Lipossomes and Lipidnaoparticles**  
+- **Lipossomes and Lipidnaoparticles**  
 
 ---
 
