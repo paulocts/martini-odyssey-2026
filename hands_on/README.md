@@ -3,7 +3,7 @@
 Welcome to the **hands-on section** of the MARTINI Odyssey school.  
 This repository contains guided tutorials corresponding to each day of the event, as well as additional advanced material.
 
-Each tutorial links to dedicated pages with step-by-step instructions.
+Each hands-on links to dedicated pages with step-by-step instructions.
 
 ---
 
