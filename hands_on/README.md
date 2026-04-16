@@ -14,14 +14,14 @@ Each tutorial links to dedicated pages with step-by-step instructions.
 
 ## Tutorials
 
-- **Introduction to Martini & MD Simulations**
- ↳ [Membrane Self-Assembly](https://cgmartini.nl/docs/tutorials/Martini3/LipidsI/)
+- **Introduction to Martini & MD Simulations**  
+  ↳ [Membrane Self-Assembly](https://cgmartini.nl/docs/tutorials/Martini3/LipidsI/)
 
-- **Martini Protein Model**
- ↳ [Introduction](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/)  
- ↳ [Using Martinize2](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/Tut1.html)
+- **Martini Protein Model**  
+  ↳ [Introduction](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/)  
+  ↳ [Using Martinize2](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/Tut1.html)
 
-- **Peptides and Lipids**
+- **Peptides and Lipids**  
   ↳ [Transmembrane Peptide Simulations](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsIIa/)
 
 ---
