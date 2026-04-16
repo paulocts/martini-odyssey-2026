@@ -35,7 +35,7 @@ Each hands-on links to dedicated pages with step-by-step instructions.
 
 ## Exercises
 
-- **Parametrization of a new Martini 3 small molecule model**  
+- **Parametrization of a new Martini 3 small molecule model**
   ↳ [Introduction to Parametrization - manual approach](https://cgmartini.nl/docs/tutorials/Martini3/Small_Molecule_Parametrization/)
   ↳ [Small-molecule models with Auto-MartiniM3](https://github.com/M2BMI-Lab/Workshop-MartiniOdyssey/blob/main/Tutorial-Parametrization-AutoMartiniM3-MartiniOdyssey.md)
 
