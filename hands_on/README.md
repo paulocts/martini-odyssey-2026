@@ -24,22 +24,9 @@ Each tutorial links to dedicated pages with step-by-step instructions.
 ## Tutorials
 
 - [Membrane Self-Assembly (Introduction to Martini & MD)](https://cgmartini.nl/docs/tutorials/Martini3/LipidsI/)
-
 - [Building a Martini Protein Model — Part 1](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/)  
   [Building a Martini Protein Model — Part 2](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/Tut1.html)
-
 - [Transmembrane Peptide Simulations](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsIIa/)
-
-- **Membrane Self-Assembly (Introduction to Martini & MD)**  
-  https://cgmartini.nl/docs/tutorials/Martini3/LipidsI/
-
-- **Building a Martini Protein Model**  
-  Part 1: https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/  
-  Part 2: https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/Tut1.html
-
-- **Transmembrane Peptide Simulations**  
-  https://cgmartini.nl/docs/tutorials/Martini3/ProteinsIIa/
-
 
 ---
 
@@ -74,18 +61,18 @@ Additional tutorials for deeper exploration beyond the core sessions.
 
 ## Topics
 
-- [More about Lipid simuations with Martini]
--- [Vesicles and Membrane in complex shapes with TS2CG2](https://github.com/weria-pezeshkian/TS2CG-v2.0/wiki/Tutorial)
--- [Complex lipid membranes with insane](https://cgmartini.nl/docs/tutorials/Martini3/LipidsII/)
--- [Complex lipid membranes with COBY](https://github.com/MikkelDA/COBY/tree/master/Tutorial)
+- [More about Lipid simuations with Martini] 
+-- [Vesicles and Membrane in complex shapes with TS2CG2](https://github.com/weria-pezeshkian/TS2CG-v2.0/wiki/Tutorial) 
+-- [Complex lipid membranes with insane](https://cgmartini.nl/docs/tutorials/Martini3/LipidsII/) 
+-- [Complex lipid membranes with COBY](https://github.com/MikkelDA/COBY/tree/master/Tutorial) 
 
 - [More about Protein Martini Models]
--- [Evaluating the qaulity of Proteins Models](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/Tut2.html)
--- [Intrinsically Disordered Regions in Proteins](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/Tut3.html)
--- [Protein complexes with Martini](hhttps://cgmartini.nl/docs/tutorials/Martini3/ProteinsIIb/)
--- [Notes and Limitations](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/Tut4.html)
+-- [Evaluating the qaulity of Proteins Models](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/Tut2.html) 
+-- [Intrinsically Disordered Regions in Proteins](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/Tut3.html) 
+-- [Protein complexes with Martini](hhttps://cgmartini.nl/docs/tutorials/Martini3/ProteinsIIb/) 
+-- [Notes and Limitations](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/Tut4.html) 
 
-- [Free energy techniques](https://cgmartini.nl/docs/tutorials/Martini3/Free_Energy_Techniques/)
+- [Free energy techniques](https://cgmartini.nl/docs/tutorials/Martini3/Free_Energy_Techniques/) 
 
 
 
