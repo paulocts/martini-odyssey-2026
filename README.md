@@ -138,7 +138,7 @@ Travel and accommodation are **not covered**.
 | 10:20 – 11:00 | Tour in the labs of Life Sciences Technology Park of ELPEN
 | 11:00 – 11:10 | Welcome — **ELPEN representative** |
 | 11:10 – 11:55 | Parametrization of Martini models — **Paulo C. T. Souza** |
-| 11:55 – 12:40 | Binding small molecules / GPCRs — **Matthieu Chavent** & **Magdalena Szczuka** |
+| 11:55 – 12:40 | Modelling protein-ligand interactions using Martini — **Matthieu Chavent** & **Magdalena Szczuka** |
 | 12:40 – 12:50 | Coffee break |
 | 12:50 – 13:35 | Computational modelling of liposomes / LNPs — **Paulo C. T. Souza** & **Mariana Valério** |
 | 13:35 – 14:20 | Lunch in ELPEN |
