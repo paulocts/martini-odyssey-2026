@@ -38,11 +38,11 @@ Each hands-on links to dedicated pages with step-by-step instructions.
   ↳ [Introduction to Parametrization — manual approach](https://cgmartini.nl/docs/tutorials/Martini3/Small_Molecule_Parametrization/)  
   ↳ [Small-molecule models with Auto-MartiniM3](https://github.com/M2BMI-Lab/Workshop-MartiniOdyssey/blob/main/Tutorial-Parametrization-AutoMartiniM3-MartiniOdyssey.md)  
 
-- **Protein–ligand binding**  
+- **Protein–ligand binding simulations**  
   ↳ [Binding of caffeine to Adenosine 2 receptor](https://github.com/M2BMI-Lab/Workshop-MartiniOdyssey/blob/main/Tutorial-Simulation-with-GPCR-AutoMartiniM3-MartiniOdyssey.md)  
 
-- **Liposomes and Lipid Nanoparticles**  
-  ↳ *(add links here)*  
+- **How to build Lipid Nanoparticles**  
+  ↳ [How to build a Lipid Nanoparticle CG models](https://zenodo.org/records/19632806)
 
 ---
 
@@ -53,6 +53,8 @@ Each hands-on links to dedicated pages with step-by-step instructions.
 
 ## Exercises
 
+- [Tutorial]
+- [Tutorial]
 - [Tutorial]
 
 ---
