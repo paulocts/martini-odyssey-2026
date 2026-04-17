@@ -41,7 +41,7 @@ Each hands-on links to dedicated pages with step-by-step instructions.
 - **Protein–ligand binding simulations**  
   ↳ [Binding of caffeine to Adenosine 2 receptor](https://github.com/M2BMI-Lab/Workshop-MartiniOdyssey/blob/main/Tutorial-Simulation-with-GPCR-AutoMartiniM3-MartiniOdyssey.md)  
 
-- **How to build Lipid Nanoparticles**  
+- **CG Modeling of Lipid Nanoparticles (LNP)**  
   ↳ [How to build a Lipid Nanoparticle CG models](https://zenodo.org/records/19632806)
 
 ---
