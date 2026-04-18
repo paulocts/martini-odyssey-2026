@@ -52,7 +52,8 @@ International speakers and instructors include:
 - **Nishita Mandal** — Biomedical Research Foundation of the Academy of Athens
 - **Chelsea Brown** - University of Groningen
 - **Marieke Westendorp** - University of Groningen
-- and additional contributors.
+
+Credits are given to PhD researchers on MD sims **Kyriakos Georgiou** (MPharm, NKUA) and **Charis Dellis** (MRes Biochem, NKUA) for substantially supporting the effort with a lot of necessary technicalities. 
 
 ---
 
