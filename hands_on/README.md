@@ -49,13 +49,16 @@ Each hands-on links to dedicated pages with step-by-step instructions.
 # 🦠 Day 3 — Biological Applications
 
 **Hands-on Session 3:**  
-*Simulations of membrane proteins and complex biological systems*
+*Simulations of complex biological systems*
 
 ## Exercises
 
-- [Tutorial]
-- [Tutorial]
-- [Tutorial]
+- **Modeling Complex lipid membranes**  
+  ↳ [Using INSANE](https://cgmartini.nl/docs/tutorials/Martini3/LipidsII/)  
+  ↳ [Using COBY](https://github.com/MikkelDA/COBY/tree/master/Tutorial)
+
+- **Modeling croweded biological systems and cellular models**  
+  ↳ [Using Bentopy](https://cgmartini.nl/docs/tutorials/Martini3/Bentopy/)
 
 ---
 
@@ -65,10 +68,10 @@ Additional tutorials for deeper exploration beyond the core sessions.
 
 ## Topics
 
-- **More on Lipid Simulations with Martini**  
+- **More on Lipid Simulations and Protein-lipid interactios with Martini**  
   ↳ [Vesicles and Membranes in Complex Shapes (TS2CG2)](https://github.com/weria-pezeshkian/TS2CG-v2.0/wiki/Tutorial)  
-  ↳ [Complex Lipid Membranes with INSANE](https://cgmartini.nl/docs/tutorials/Martini3/LipidsII/)  
-  ↳ [Complex Lipid Membranes with COBY](https://github.com/MikkelDA/COBY/tree/master/Tutorial)
+  ↳ [Analysis of Protein-Lipid interactions - Jupyter notebooks](https://pylipid.readthedocs.io/en/master/tutorial.html)  
+  ↳ [Analysis of Protein-Lipid interactions - Tutorials](https://prolint2.readthedocs.io/en/latest/source/tutorials.html)  
 
 - **More on Protein Martini Models**  
   ↳ [Evaluating the Quality of Protein Models](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/Tut2.html)  
