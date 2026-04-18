@@ -26,6 +26,14 @@ Topics include:
 
 ---
 
+## 💻 Hands-on Tutorials
+
+The hands-on material (including exercises, links, and computing instructions) is available here:
+
+👉 [Hands-on Exercises](./hands-on/README.md)
+
+---
+
 ## 👩‍🔬 Expert Instructors
 
 International speakers and instructors include:
