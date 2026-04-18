@@ -126,7 +126,7 @@ Travel and accommodation are **not covered**.
 
 | Time | Activity |
 |-----|-----|
-| 09:30 – 10:00 | Registration v
+| 09:30 – 10:00 | Registration |
 | 10:00 – 10:10 | Welcome — **E. Mikros, P. C. T. Souza, R. Corey, A. Kolocouris** |
 | 10:10 – 10:55 | Introduction to Coarse-Graining and Martini — **Paulo C. T. Souza** |
 | 10:55 – 11:40 | Martini models for biomolecules / Martini ecosystem — **Luís Borges Araújo** |
