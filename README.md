@@ -30,7 +30,7 @@ Topics include:
 
 The hands-on material (including exercises, links, and computing instructions) is available here:
 
-👉 [Hands-on Exercises](./hands-on/README.md)
+👉 [Hands-on Exercises](./hands_on/README.md)
 
 ---
 
