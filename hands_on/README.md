@@ -120,7 +120,8 @@ Your Laptop / Lab PC (Windows + MobaXterm)
 ## Running jobs
 
 - Navigate to the relevant tutorial folder  
-- Submit jobs using: `sbatch submit.sh`
+- Preparation can be done on the local machines  
+- Submit jobs to ARIS HPC using: `sbatch submit.sh` *(ask for help if you need guidance on the `submit.sh` format)*  
 
 ## 🧪 Software Environment
 
