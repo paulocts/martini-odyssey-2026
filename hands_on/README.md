@@ -69,9 +69,10 @@ Additional tutorials for deeper exploration beyond the core sessions.
 ## Topics
 
 - **More on Lipid Simulations and Protein-lipid interactios with Martini**  
-  ↳ [Vesicles and Membranes in Complex Shapes (TS2CG2)](https://github.com/weria-pezeshkian/TS2CG-v2.0/wiki/Tutorial)  
+  ↳ [Vesicles and Membranes in Complex Shapes (TS2CG2)](https://github.com/weria-pezeshkian/TS2CG-v2.0/wiki/Tutorial)
+  ↳ [Analysis of Protein-Lipid interactions - Introduction to Prolint2](https://cgmartini.nl/docs/tutorials/Martini3/ProLint/)
   ↳ [Analysis of Protein-Lipid interactions - Jupyter notebooks](https://pylipid.readthedocs.io/en/master/tutorial.html)  
-  ↳ [Analysis of Protein-Lipid interactions - Tutorials](https://prolint2.readthedocs.io/en/latest/source/tutorials.html)  
+  ↳ [Analysis of Protein-Lipid interactions - Additional Tutorials](https://prolint2.readthedocs.io/en/latest/source/tutorials.html)  
 
 - **More on Protein Martini Models**  
   ↳ [Evaluating the Quality of Protein Models](https://cgmartini.nl/docs/tutorials/Martini3/ProteinsI/Tut2.html)  
