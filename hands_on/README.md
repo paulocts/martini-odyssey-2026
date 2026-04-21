@@ -112,8 +112,8 @@ Your Laptop / Lab PC (Windows + MobaXterm)
 
 ## Login
 
-1. Connect to the workshop gateway:  
-   `ssh -p 65022 workshop2026_1@88.197.83.25`
+1. Connect to the workshop gateway (use the IP provided to you):  
+   `ssh -p 65022 workshop2026_1@XXXXXX`
 
 2. From there, connect to ARIS HPC:  
    `ssh -i ~/.ssh/aris train01@login.aris.grnet.gr`
