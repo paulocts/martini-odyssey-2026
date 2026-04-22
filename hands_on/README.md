@@ -53,7 +53,7 @@ Each hands-on links to dedicated pages with step-by-step instructions.
 
 ## Exercises
 
-- **Visualisation of Martini models in VMD**
+- **Visualisation of Martini models in VMD**  
   ↳ [Using MartiniGlass](https://cgmartini.nl/docs/tutorials/Martini3/LipidsII/](https://martiniglass.readthedocs.io/en/latest/index.html)  
 
 - **Modeling Complex lipid membranes**  
