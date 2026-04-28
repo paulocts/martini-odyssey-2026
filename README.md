@@ -72,6 +72,8 @@ Hands-on sessions are supported by:
 ## 🤝 Activities
 
 - Poster & flash-talk discussions *(poster presenters prioritised)*  
+  👉 [Book of Poster Abstracts & Scientific Program (PDF)]((./assets/MARTINI-Odyssey%20Athens%202026_Book%20of%20Poster%20Abstracts%20%26%20Conference%20Program-1.pdf))
+
 - Networking activities including **Acropolis / museum visit** 🏛️  
 - Greek food and informal scientific discussions 🍽️  
 
