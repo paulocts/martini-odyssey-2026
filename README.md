@@ -72,10 +72,12 @@ Hands-on sessions are supported by:
 ## 🤝 Activities
 
 - Poster & flash-talk discussions *(poster presenters prioritised)*  
-  👉 [Download the Book of Poster Abstracts & Scientific Program (PDF)](assets/Book_Poster_Abstracts_Program.pdf)
+  <a href="assets/Book_Poster_Abstracts_Program.pdf" download>
+    👉 Download the Book of Poster Abstracts & Scientific Program (PDF)
+  </a>
 
 - Networking activities including **Acropolis / museum visit** 🏛️  
-- Greek food and informal scientific discussions 🍽️
+- Greek food and informal scientific discussions 🍽️  
 
 ---
 
