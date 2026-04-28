@@ -71,11 +71,8 @@ Hands-on sessions are supported by:
 
 ## 🤝 Activities
 
-- Poster & flash-talk discussions *(poster presenters prioritised)*  
-  <a href="assets/Book_Poster_Abstracts_Program.pdf" download>
-    👉 Download the Book of Poster Abstracts & Scientific Program (PDF)
-  </a>
-
+- Poster & lectures
+  👉 [Book of Poster Abstracts & Scientific Program (PDF)](https://raw.githubusercontent.com/paulocts/martini-odyssey-2026/main/assets/Book_Poster_Abstracts_Program.pdf)
 - Networking activities including **Acropolis / museum visit** 🏛️  
 - Greek food and informal scientific discussions 🍽️  
 
